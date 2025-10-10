@@ -94,11 +94,3 @@ While the model captures general trends in customer value, the predictive accura
 - Predicted vs Actual CLV scatter plot (log scale)  
 
 ---
-
-## How to Run
-1. Clone the repo
-2. Create a conda environment:
-   ```bash
-   conda create -n clv_env python=3.10
-   conda activate clv_env
-   pip install -r requirements.txt
